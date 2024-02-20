@@ -16,7 +16,7 @@ IDE: Netbeans 8.2 / Eclipse.
 Database: MySQL (XAMPP).
 
 Technologies Used:
-JavaFX
+JavaFX &
 MySQL
 
 
